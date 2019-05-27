@@ -145,6 +145,15 @@
     <ClCompile Include="..\..\..\Project3\Project3\9012  괄호.cpp" />
     <ClCompile Include="..\..\..\Project3\Project3\9095 123더하기cpp.cpp" />
     <ClCompile Include="..\..\..\Project3\Project3\농작물 수확하기.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\10430 나머지.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\11005 진법 변환2.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\14501 퇴사.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\1934 최소공배수.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\2193 이친수.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\2609 최공.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\2745 진법변환.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\9465 스티커.cpp" />
+    <ClCompile Include="..\..\..\수학\수학\9613 GCD 합.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
