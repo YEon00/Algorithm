@@ -115,6 +115,36 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\Project3\Project3\10282 스택.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\10799 쇠막대기.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\10808 알파벳개수.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\10809 알파벳찾기.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\10820 문자열분석.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\10844 쉬운 계단 수.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\10845 큐.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\10866 덱.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\11052 카드 구매하기cpp.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\11057 오르막 수.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\1158 조세퍼스.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\11655 ROT13.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\11723 WLQGKQ.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\11726 2n타일링cpp.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\11727 2n타일링2.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\1406 에디터.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\1406.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\1463 1로만들기.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\1654 랜선자르기.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\17103 골드바흐 파티션.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\2178 미로탐색.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\2493 탑.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\2667 단지번호붙이기.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\2743 단어 길이 재기.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\2805 나무자르기.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\7576 토마토.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\7785 회사에 있는 사람.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\9012  괄호.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\9095 123더하기cpp.cpp" />
+    <ClCompile Include="..\..\..\Project3\Project3\농작물 수확하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
